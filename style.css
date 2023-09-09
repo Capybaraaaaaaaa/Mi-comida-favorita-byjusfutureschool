@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1{
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
+#button1{
+    background-color: #00BF63;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: px;
+    border-color: #C1FF72;
+    border-style: groove;
+}
+#img1{
+    width: 50%;
+}
